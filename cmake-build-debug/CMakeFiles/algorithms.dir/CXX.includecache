@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/blank/CLionProjects/algorithms/List/List.cpp
+
+/home/blank/CLionProjects/algorithms/Queue/PriorityQueue.cpp
+
+/home/blank/CLionProjects/algorithms/Queue/Queue.cpp
+
+/home/blank/CLionProjects/algorithms/Solutions/Chapter 1/File.cpp
+File.h
+/home/blank/CLionProjects/algorithms/Solutions/Chapter 1/File.h
+iostream
+-
+
+/home/blank/CLionProjects/algorithms/Solutions/Chapter 1/File.h
+algorithm
+-
+fstream
+-
+string
+-
+vector
+-
+
+/home/blank/CLionProjects/algorithms/Stack/Stack.cpp
+
+/home/blank/CLionProjects/algorithms/UnorderedSet/USet.cpp
+
+/home/blank/CLionProjects/algorithms/main.cpp
+iostream
+-
+
